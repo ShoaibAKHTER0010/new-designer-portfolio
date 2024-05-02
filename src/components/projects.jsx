@@ -9,7 +9,8 @@ const Projects = () => {
                {/* first div */}
                <div className='flex  flex-col gap-10'>
                 {/* card one */}
-                <div className='w-[570px] h-[234px] px-5 pt-16'>
+                <div className='w-[570px] h-[234px] px-5 pt-16'
+                 >
             <p className='md:text-white text-black text-[44px]  md:text-[56px] font-medium font-["DM Sans"] leading-[66px]'>Take a look at my recent projects</p>
                 </div>
                 {/* card two */}
@@ -104,7 +105,8 @@ const Projects = () => {
                
             </div>
             {/* button */}
-            <div className='w-full flex justify-center items-center py-10 pt-16'>
+            <div className='w-full flex justify-center items-center py-10 pt-16'
+           >
                 <button className='bg-[#5D3BEE] text-white md:text-black
                 md:bg-white px-5 py-3'>All Projects</button>
                </div>

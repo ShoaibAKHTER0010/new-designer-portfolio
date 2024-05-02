@@ -9,7 +9,8 @@ const Designer = () => {
               {/* first div */}
               <div>
                 {/* one */}
-                <div className='w-full flex justify-center items-center py-8'>
+                <div className='w-full flex justify-center items-center py-8 '
+                 >
                     <h2 className='text-indigo-600 text-[32px] font-medium font-["DM Sans"] leading-10'>Hey,,,,It’s Arif</h2>
                     <img src="./images/hyy-logo.png" alt="logo" />
                 </div>
