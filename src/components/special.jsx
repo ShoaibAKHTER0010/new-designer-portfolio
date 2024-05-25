@@ -27,7 +27,7 @@ const Special = () => {
                     <p className="text-gray-600 text-lg font-normal font-['DM Sans'] leading-[30px] ">Lorem ipsum dolor sit amet, solor adipiscing elit. Non nisl solor ut elementum turpis.</p>
                 </div>
                 {/* three */}
-                <div className='w-full md:w-[370px] h-[306px] bg-[#FBFAFF] flex-col py-8 px-8'>
+                <div className='w-full md:w-[370px] h-[306px] bg-[#b8b4c7] flex-col py-8 px-8'>
                 <div className='w-full'> <img src="./images/phone.png" alt="img" /></div>
                     <h2 className='text-gray-950 text-[32px] font-medium font-["DM Sans"] leading-10'>Interactive design</h2>
                     <p className="text-gray-600 text-lg font-normal font-['DM Sans'] leading-[30px]">Lorem ipsum dolor sit amet, solor adipiscing elit. Non nisl solor ut elementum turpis.</p>

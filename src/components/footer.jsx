@@ -39,11 +39,11 @@ const Footer = () => {
        <div className='max-w-7xl  flex justify-between py-8'>
         {/* div one */}
         <div className=''>
-            <p className='opacity-60 text-slate-600 md:text-lg text-md font-normal font-["DM Sans"] md:leading-[30px] leading-[24px]'>©interactiveArif 2021. All rights reserved.</p>
+            <p className='opacity-60 text-slate-700 md:text-lg text-md font-normal font-["DM Sans"] md:leading-[30px] leading-[24px]'>©interactiveArif 2021. All rights reserved.</p>
         </div>
         {/* div two */}
         <div className='md:pr-24 pr-0'>
-            <p className='opacity-60 text-slate-600 md:text-lg text-md font-normal font-["DM Sans"] md:leading-[30px] leading-[14px]'>
+            <p className='opacity-60 text-slate-700 md:text-lg text-md font-normal font-["DM Sans"] md:leading-[30px] leading-[14px]'>
             Privacy Policy  <span className='border-e-red-700 border-l-4 pl-4'>Terms of Conditions</span></p>
             
         </div>

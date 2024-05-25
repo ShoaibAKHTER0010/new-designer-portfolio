@@ -2,7 +2,7 @@ import React from 'react'
 
 const People = () => {
   return (
-    <section  className='w-full bg-[#FBFAFF]'>
+    <section  className='w-full bg-[#c7c5cf]'>
         <main className="mx-auto max-w-7xl  pl-4 md:pl-10 ">
             {/* main div */}
             <div className='w-full'>

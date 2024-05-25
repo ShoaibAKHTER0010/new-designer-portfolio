@@ -33,7 +33,7 @@ const Home = () => {
      <div className='flex flex-col md:flex-row max-w-full py-10 md:py-24'>
      {/* div one */}
      <div className='md:w-1/2 w-full flex gap-1 md:gap-3'>
-     <button className='bg-indigo-600 text-white text-md md:text-lg font-bold font-["DM Sans"] leading-none md:leading-[30px] py-1 md:py-2 px-3 md:px-5 shadow-lg'>Book a Call</button>
+     <button className='bg-indigo-700 text-white text-md md:text-lg font-bold font-["DM Sans"] leading-none md:leading-[30px] py-1 md:py-2 px-3 md:px-5 shadow-lg'>Book a Call</button>
      <span className='pt-3 text-gray-950 text-md md:text-lg font-bold font-["DM Sans"] underline leading-none md:leading-[30px]'>My Works</span>
      </div>
      {/* div two */}

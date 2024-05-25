@@ -23,18 +23,18 @@ const Designer = () => {
                 <div className='max-w-7xl flex justify-center md:gap-28 gap-16 md:py-10 py-4 mt-16  border-t-2 border-e-red-700 border-b-2'>
                     {/* child-1 */}
                     <div className=''>
-                        <h1 className='text-gray-950 text-[44px] md:text-[56px] font-medium font-["DM Sans"] underline leading-[76px] tracking-widest'>08+</h1>
-                        <p className="text-gray-600 text-lg font-normal font-['DM Sans'] md:leading-[30px] leading-[24px]">Years Experience</p>
+                        <h1 className='text-gray-900 text-[44px] md:text-[56px] font-medium font-["DM Sans"] underline leading-[76px] tracking-widest'>08+</h1>
+                        <p className="text-gray-700 text-lg font-normal font-['DM Sans'] md:leading-[30px] leading-[24px]">Years Experience</p>
                     </div>
                     {/* child-2 */}
                     <div>
                     <h1 className='text-gray-950 text-[44px] md:text-[56px] font-medium font-["DM Sans"] underline leading-[76px] tracking-widest'>21+</h1>
-                        <p className="text-gray-600 text-lg font-normal font-['DM Sans']    leading-[24px] md:leading-[30px]">Features & Awards</p>
+                        <p className="text-gray-700 text-lg font-normal font-['DM Sans']    leading-[24px] md:leading-[30px]">Features & Awards</p>
                     </div>
                     {/* child-3 */}
                     <div>
                     <h1 className='text-gray-950 md:text-[56px] text-[44px] font-medium font-["DM Sans"] underline leading-[76px] tracking-widest'>97%</h1>
-                        <p className="text-gray-600 text-lg font-normal font-['DM Sans'] leading-[24px]md:leading-[30px]">Clients Rating</p>
+                        <p className="text-gray-700 text-lg font-normal font-['DM Sans'] leading-[24px]md:leading-[30px]">Clients Rating</p>
                     </div>
 
                 </div>

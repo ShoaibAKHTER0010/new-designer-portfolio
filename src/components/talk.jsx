@@ -24,7 +24,7 @@ const Talk = () => {
                 </div>
                 {/* third div */}
                 <div className='w-full flex justify-center items-center py-10 '>
-                <button className='bg-[#5D3BEE] text-white px-5 py-3'>All Projects</button>
+                <button className='bg-[#553dc0] text-white px-5 py-3'>All Projects</button>
                </div>
 
             </div>
