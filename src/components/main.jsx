@@ -5,7 +5,7 @@ import React from 'react'
 const Home = () => {
   return (
     <section className=" w-full ">
-    <main className="mx-auto max-w-full  md:max-w-7xl   flex   gap-6 md:gap-16  pl-0 md:pl-10  ">
+    <main className="mx-auto md:max-w-7xl   flex flex-col-reverse md:flex-row-   gap-6 md:gap-16  pl-0 md:pl-10  ">
      {/* first main div */}
      <div className="w-1/2 h-96 md:h-auto flex-wrap" 
      style={{
